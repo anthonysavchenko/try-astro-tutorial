@@ -1,4 +1,8 @@
-https://docs.astro.build/en/tutorial
+[Source](https://docs.astro.build/en/tutorial)
+
+[Markdown Cheat Sheet from The Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+
+
 
 # Astro Starter Kit: Minimal
 
