@@ -2,8 +2,6 @@
 
 [Markdown Cheat Sheet from The Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
-
-
 # Astro Starter Kit: Minimal
 
 ```sh
