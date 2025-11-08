@@ -2,6 +2,12 @@
 
 [Markdown Cheat Sheet from The Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
+[Component-based Design](https://www.droptica.com/blog/component-based-design/)
+
+[Semantic HTML Tags](https://www.dofactory.com/html/semantics)
+
+[Mobile-first Design](https://www.mobileapps.com/blog/mobile-first-design)
+
 # Astro Starter Kit: Minimal
 
 ```sh
